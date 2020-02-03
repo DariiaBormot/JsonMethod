@@ -1,0 +1,9 @@
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\bin\Debug\Json_Exercise.exe.config
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\bin\Debug\Json_Exercise.exe
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\bin\Debug\Json_Exercise.pdb
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\obj\Debug\Json_Exercise.csprojAssemblyReference.cache
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\obj\Debug\Json_Exercise.csproj.CopyComplete
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\obj\Debug\Json_Exercise.exe
+C:\Users\Дарья\source\repos\Json_Exercise\Json_Exercise\obj\Debug\Json_Exercise.pdb
